@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Inventory Management System
 
 A full-stack web application to manage products and inventory, built with **React**, **Node.js/Express**, and **MongoDB**.
@@ -212,3 +213,6 @@ The app will be running at: `http://localhost:5173`
 ## 📄 License
 
 This project is for educational/assignment purposes.
+=======
+# Inventory_Management_System
+>>>>>>> ac16a4bf3b8a129ccc63050d0d99474d7d171d83
