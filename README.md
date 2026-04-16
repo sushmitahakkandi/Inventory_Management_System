@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📦 Inventory Management System
 
 A full-stack web application to manage products and inventory, built with **React**, **Node.js/Express**, and **MongoDB**.
