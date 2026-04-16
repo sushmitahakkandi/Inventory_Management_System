@@ -746,6 +746,7 @@ body {
 }
 
 .form-group input {
+  width: 100%;
   padding: 12px 16px;
   background: var(--bg-glass);
   border: 1px solid var(--border-color);
